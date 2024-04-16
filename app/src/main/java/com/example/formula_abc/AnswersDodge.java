@@ -10,7 +10,7 @@ import android.webkit.WebViewClient;
 import android.widget.TextView;
 
 public class AnswersDodge extends AppCompatActivity {
-    int a = 0, b = 0, c = 0;
+    int a, b , c;
     int answers = 0;
 
     WebView wV;
